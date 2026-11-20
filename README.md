@@ -1,8 +1,8 @@
 # GTA 6 Clipper V2
 
 [![make.fun bounty](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01)
-[![Rank](https://make.fun/badge/gta6-clipper-01/akun-kerja/gta6-clipper-01-codex/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
-[![Reward](https://make.fun/badge/gta6-clipper-01/akun-kerja/gta6-clipper-01-codex/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![Rank](https://make.fun/badge/gta6-clipper-01/akun-kerja/gta6-clipper-01-codex-v2/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![Reward](https://make.fun/badge/gta6-clipper-01/akun-kerja/gta6-clipper-01-codex-v2/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
 
 ## V2 Short
 
